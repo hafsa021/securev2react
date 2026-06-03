@@ -1,0 +1,32 @@
+.page-shell {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 4rem;
+}
+
+.page-shell__header {
+  text-align: left;
+  margin-bottom: 2rem;
+}
+
+.page-shell__header h1 {
+  margin: 0 0 0.75rem;
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #f8fafc;
+}
+
+.page-shell__subtitle {
+  margin: 0;
+  max-width: 42rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #94a3b8;
+}
+
+.page-shell__body {
+  text-align: left;
+  color: #cbd5e1;
+  line-height: 1.65;
+}
